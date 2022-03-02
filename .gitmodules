@@ -1,0 +1,9 @@
+[submodule "Hugo/aurint.ca/themes/doks"]
+	path = Hugo/aurint.ca/themes/doks
+	url = https://github.com/h-enk/doks.git
+[submodule "Hugo/aurint.ca/themes/doks-child"]
+	path = Hugo/aurint.ca/themes/doks-child
+	url = https://github.com/h-enk/doks-child-theme.git
+[submodule "Hugo/aurint.ca/themes/portfolio"]
+	path = Hugo/aurint.ca/themes/portfolio
+	url = https://github.com/wowchemy/wowchemy-hugo-themes.git
